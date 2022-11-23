@@ -1,0 +1,8 @@
+api.hiveos.farm
+helsinks.hiveos.farm
+mks.hiveos.farm
+paris.hiveos.farm
+amster.hiveos.farm
+ca1.hiveos.farm
+ap.hiveos.farm
+api2mks.hiveos.farm
