@@ -1,8 +1,8 @@
-api.hiveos.farm
-helsinks.hiveos.farm
-mks.hiveos.farm
-paris.hiveos.farm
-amster.hiveos.farm
-ca1.hiveos.farm
-ap.hiveos.farm
-api2mks.hiveos.farm
+https://api.hiveos.farm
+https://helsinks.hiveos.farm
+https://mks.hiveos.farm
+https://paris.hiveos.farm
+https://amster.hiveos.farm
+https://ca1.hiveos.farm
+https://ap.hiveos.farm
+https://api2mks.hiveos.farm
